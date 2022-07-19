@@ -1,0 +1,17 @@
+ec\com\alexdevfs\web\ServletAdd.class
+ec\com\alexdevfs\domain\Contact.class
+ec\com\alexdevfs\domain\Residence.class
+ec\com\alexdevfs\web\ServletUpdate.class
+ec\com\alexdevfs\service\ServiceStudent.class
+ec\com\alexdevfs\web\ServletController.class
+ec\com\alexdevfs\dao\ResidenceDAO.class
+ec\com\alexdevfs\domain\Student.class
+ec\com\alexdevfs\domain\Course.class
+ec\com\alexdevfs\dao\StudentDAO.class
+ec\com\alexdevfs\dao\AssigmentDAO.class
+ec\com\alexdevfs\dao\CourseDAO.class
+ec\com\alexdevfs\dao\GenericDAO.class
+ec\com\alexdevfs\domain\Assigment.class
+ec\com\alexdevfs\test\TestDAO.class
+ec\com\alexdevfs\dao\ContactDAO.class
+ec\com\alexdevfs\web\ServletRedirect.class
